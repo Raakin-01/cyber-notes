@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical hacking/Pentest types.md",
+                "file": "Ethical hacking/Networking refresher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pentest types"
+              "title": "Networking refresher"
             }
           }
         ]
@@ -196,7 +196,9 @@
   },
   "active": "a84716b412d89246",
   "lastOpenFiles": [
+    "Pasted image 20260601214125.png",
     "Ethical hacking/Pentest types.md",
+    "Ethical hacking/Networking refresher.md",
     "Ethical hacking",
     "Untitled.md",
     "CTF/General skills ctf.md",
