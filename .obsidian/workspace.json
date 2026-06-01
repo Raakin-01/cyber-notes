@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical hacking/works.md",
+                "file": "Ethical hacking/Pentest types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "works"
+              "title": "Pentest types"
             }
           }
         ]
@@ -196,7 +196,7 @@
   },
   "active": "a84716b412d89246",
   "lastOpenFiles": [
-    "Ethical hacking/works.md",
+    "Ethical hacking/Pentest types.md",
     "Ethical hacking",
     "Untitled.md",
     "CTF/General skills ctf.md",
