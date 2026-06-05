@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical hacking/Subnetting.md",
+                "file": "Ethical hacking/User and privileges.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subnetting"
+              "title": "User and privileges"
             }
           }
         ]
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,9 +197,11 @@
   },
   "active": "a84716b412d89246",
   "lastOpenFiles": [
+    "Ethical hacking/Linux fundamentals.md",
+    "Ethical hacking/User and privileges.md",
+    "Ethical hacking/Subnetting.md",
     "Pasted image 20260604154644.png",
     "Ethical hacking/Networking refresher.md",
-    "Ethical hacking/Subnetting.md",
     "Pasted image 20260604154308.png",
     "Pasted image 20260604154125.png",
     "Ethical hacking/Pentest types.md",
