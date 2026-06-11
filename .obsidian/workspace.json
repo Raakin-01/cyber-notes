@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical hacking/Bash scripting.md",
+                "file": "Ethical hacking/Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bash scripting"
+              "title": "Python"
             }
           }
         ]
@@ -198,6 +198,7 @@
   "active": "ed48f6b59b686458",
   "lastOpenFiles": [
     "Ethical hacking/Bash scripting.md",
+    "Ethical hacking/Python.md",
     "Ethical hacking/Strarting and stopping services.md",
     "Ethical hacking/Command Network commands.md",
     "Ethical hacking/Linux fundamentals.md",
