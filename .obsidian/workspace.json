@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical hacking/Python.md",
+                "file": "Ethical hacking/Hunting breached credentials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "Hunting breached credentials"
             }
           }
         ]
@@ -197,8 +197,12 @@
   },
   "active": "ed48f6b59b686458",
   "lastOpenFiles": [
-    "Ethical hacking/Bash scripting.md",
+    "Ethical hacking/Email.md",
+    "Ethical hacking/Hunting breached credentials.md",
+    "Ethical hacking/Passive recon.md",
+    "Ethical hacking/Stages.md",
     "Ethical hacking/Python.md",
+    "Ethical hacking/Bash scripting.md",
     "Ethical hacking/Strarting and stopping services.md",
     "Ethical hacking/Command Network commands.md",
     "Ethical hacking/Linux fundamentals.md",
